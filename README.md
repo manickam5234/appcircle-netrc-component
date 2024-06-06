@@ -2,11 +2,7 @@
 
 Add credentials to the `.netrc` file
 
-## Required Inputs
-
-- `AC_NETRC_HOSTNAME`:machine github.com
-- `AC_NETRC_USER`:manickam5234
-- `AC_NETRC_PASS`:Dzire@5441
+## 
 
 ## Discussion
 
